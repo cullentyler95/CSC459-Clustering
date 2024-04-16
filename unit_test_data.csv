@@ -1,0 +1,6 @@
+id;category;title;body;amenities;bathrooms;bedrooms;currency;fee;has_photo;pets_allowed;price;price_display;price_type;square_feet;address;cityname;state;latitude;longitude;source;time
+1;c1;t1;b1;a1;1;1;usd;null;null;null;2000;2000.00;Monthly;800;1 Main St.;Oswego;NY;51.5217;30.1140;Test;1
+2;c2;t2;b2;a2;2;2;usd;null;null;null;2000;2000.00;Monthly;800;2 Main St.;Oswego;NY;27.9698;27.0568;Test;2
+3;c3;t3;b3;a3;3;3;usd;null;null;null;2000;2000.00;Monthly;800;3 Main St.;Oswego;NY;10.6233;52.4207;Test;3
+4;c4;t4;b4;a4;4;4;usd;null;null;null;2000;2000.00;Monthly;800;4 Main St.;Oswego;NY;122.1483;6.9586;Test;4
+5;c5;t5;b5;a5;5;5;usd;null;null;null;2000;2000.00;Monthly;800;5 Main St.;Oswego;NY;146.4236;-41.3457;Test;5
